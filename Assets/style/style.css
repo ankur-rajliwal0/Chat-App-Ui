@@ -6,7 +6,7 @@
   text-decoration: none !important;
   /* color: white; */
   list-style: none;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 .container {
   padding-top: 15px;
@@ -303,6 +303,9 @@
     min-height: 403px;
   }
   .section3_img_main {
+    width: 100%;
+  }
+  .footer {
     width: 100%;
   }
 }
